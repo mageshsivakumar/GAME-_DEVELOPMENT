@@ -1,8 +1,8 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
+NAME : riyaz m
 
-REG NO: 212224040194
+REG NO: 212224040279
 
 **AIM :**
 
@@ -37,7 +37,6 @@ Step 7 : stop.
 
 **Program :**
 
-```
 #include "stdio.h" 
 #include "conio.h" 
 #include "math.h" 
@@ -111,7 +110,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
   return 0;
  
 }
-```
+
 
 
 **Output :**
